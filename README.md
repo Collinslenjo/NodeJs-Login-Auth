@@ -10,7 +10,7 @@ You need the following installed on your machine:
 [`NodeJs`](https://nodejs.org/en/)  
 
 ## Getting started  
-`git clone` the app and run `npm install` to install the dependencies.  
+`git clone` the app and `npm install` to install the dependencies.  
 
 ## Run  
 
